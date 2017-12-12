@@ -3,7 +3,7 @@ class Ansible2tab < Formula
   homepage "https://github.com/muziyoshiz/ansible2tab"
   url "https://github.com/muziyoshiz/ansible2tab/releases/download/v0.0.3/ansible2tab_darwin_amd64.zip"
   version "v0.0.3"
-  sha256 "v5c5bbf8fbf7a157d5637609492580c95844a4d1265b83e17aef50dccc28a9b26"
+  sha256 "273df2a2fc9a0ed9323cc66da4bf8349d023e1c6fd7d265d52f6f623582cf333"
 
   def install
     bin.install 'ansible2tab'
